@@ -1,0 +1,6 @@
+{
+  "name": "VECTOR STIPPLE LAB",
+  "description": "Professional browser-based procedural stipple, halftone, and distressed grunge SVG vector artwork generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
